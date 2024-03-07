@@ -1,7 +1,6 @@
 {
   "name": "currency-formatter-hal",
   "version": "1.0.5",
-  "type": "module",
   "description": "",
   "main": "index.mjs",
   "scripts": {
