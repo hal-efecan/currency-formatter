@@ -1,4 +1,7 @@
-export const welcome = () => "Welcome";
-export const goodbye = () => "Goodbye!";
-// module.exports = {
-// };
+const welcome = () => "Welcome";
+const goodbye = () => "Goodbye!";
+
+module.exports = {
+  welcome,
+  goodbye,
+};
