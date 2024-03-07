@@ -1,5 +1,4 @@
-const myFirstNpmLibrary = () => {
-  console.log("This is my first NPM library");
+module.exports = {
+  welcome: () => console.log("This is my first NPM library"),
+  goodbye: () => console.log("Goodbye!"),
 };
-
-module.exports = myFirstNpmLibrary;
